@@ -26,6 +26,11 @@ This project aims to analyze data on the E-Commerce Public Dataset. The ultimate
 
    ```shell
    pip install streamlit
+   ```
+
+3. Go to the project directory (Local):
+   ```shell
+   cd Data-Analysis-with-Python-Project
    pip install -r requirements.txt
    ```
 
@@ -34,10 +39,15 @@ This project aims to analyze data on the E-Commerce Public Dataset. The ultimate
 1. Go to the project directory (Local):
 
    ```shell
-   cd Data-Analysis-with-Python-Project/steamlit_src/
-   streamlit run main_steamlit.py
+   cd Data-Analysis-with-Python-Project/streamlit_src/
    ```
 
-## how to contribute ?
+1. Run streamlit file:
+
+   ```shell
+   streamlit run main_streamlit.py
+   ```
+
+## How to contribute ?
 
 You can contribute to this project by making a pull request. Be sure to explain your proposed changes clearly and thoroughly.
